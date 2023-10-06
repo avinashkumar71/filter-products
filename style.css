@@ -21,9 +21,14 @@
     justify-content: center;
     object-fit: contain;
 }
+.search-bar{
+    width: 40%;
+}
 .search-bar input{
-    font-size: 30px;
-    padding: 10px 10px;
+    width: 100%;
+    font-size: 20px;
+    padding: 10px 20px;
+    border-radius: 30px;
 }
 .image-container{
     padding: 10px 10px;
